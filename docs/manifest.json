@@ -1,0 +1,813 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/github/CodeFactoryLLC/CodeFactoryDocs/src/CodeFactoryVisualStudio/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "dGIJhkjCGZR4QvIDNb6reg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/Introduction/Commands/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/Introduction/Commands/Overview.html",
+          "hash": "RVCCYzLeZnLjcfRGFhs/lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/Introduction/DataModels/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/Introduction/DataModels/Overview.html",
+          "hash": "JECQes9nm+XheXs/Nqvmyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/Introduction/Environment/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/Introduction/Environment/Overview.html",
+          "hash": "Rtq87QopHukLSUVwcfk72w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/Introduction/Formatting/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/Introduction/Formatting/Overview.html",
+          "hash": "7QP30350qZtMr2oNRZhmbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "guidance/Introduction/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/Introduction/Overview.html",
+          "hash": "4BkZoSFQgNKM81OFaL8k/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/Introduction/UI/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/Introduction/UI/Overview.html",
+          "hash": "ug1d+fSX98S5miD0jQ4nPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/Introduction/VsActions/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/Introduction/VsActions/Overview.html",
+          "hash": "xnam3OZ38SfbUGbXRmao2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/howto/CreateProject/AutomateProjectInformation.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/howto/CreateProject/AutomateProjectInformation.html",
+          "hash": "KwCBcT3R0gTWKGiU7dH2Pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/howto/CreateProject/CreateProject.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/howto/CreateProject/CreateProject.html",
+          "hash": "PlBYURhEnZ5iJ48zxaER0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/AddProjectCommandDialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/AddProjectCommandDialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/BuildSolution.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/BuildSolution.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ButtonClose.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ButtonClose.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/CodeFactoryReferenceMissingError.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/CodeFactoryReferenceMissingError.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/CodeFactorySDKProjectReference.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/CodeFactorySDKProjectReference.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/CommandsLoaded.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/CommandsLoaded.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ConfigureCodeFactoryTestingProject.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ConfigureCodeFactoryTestingProject.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ConfigureProject.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ConfigureProject.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DefaultEnableCommandAsync.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DefaultEnableCommandAsync.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DefaultXamlDialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DefaultXamlDialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DialogButton.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DialogButton.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DialogDataControls.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DialogDataControls.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DialogFolderAddNewItem.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DialogFolderAddNewItem.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DialogGridFormatting.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DialogGridFormatting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DialogLayout.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DialogLayout.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DialogSelectCodeBehind.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DialogSelectCodeBehind.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/DialogTitleAndSize.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/DialogTitleAndSize.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/EnableCommandAsyncUpdated.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/EnableCommandAsyncUpdated.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncBoundsCheck.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncBoundsCheck.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncCreateUserControl.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncCreateUserControl.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncDefault.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncDefault.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncFileCount.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncFileCount.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncProjectVariables.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncProjectVariables.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncReferences.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncReferences.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncSetDataOnDialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncSetDataOnDialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncSetProjectName.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncSetProjectName.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncShowDialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ExecuteCommandAsyncShowDialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/FileNewProject.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/FileNewProject.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/NewProjectInformationUserControl.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/NewProjectInformationUserControl.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/NewProjectStandardDialog.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/NewProjectStandardDialog.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/OpenCodeFactoryTesting.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/OpenCodeFactoryTesting.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ProjectCommandNoErrors.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ProjectCommandNoErrors.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ProjectCommandTitleAndDescription.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ProjectCommandTitleAndDescription.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ProjectFolderStructure.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ProjectFolderStructure.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/ProjectInfoDialogWithData.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/ProjectInfoDialogWithData.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/RunShowProjectInformation.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/RunShowProjectInformation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/SelectCommandLibraryProject.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/SelectCommandLibraryProject.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/SolutionExplorerProjectNewItemAdd.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/SolutionExplorerProjectNewItemAdd.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/SolutionExplorerTestShowProjectInformation.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/SolutionExplorerTestShowProjectInformation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/StartDebugging.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/StartDebugging.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/StartWindowCreateProject.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/StartWindowCreateProject.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/VisualStudioErrorDialogCodeFactory.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/VisualStudioErrorDialogCodeFactory.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/CreateProject/Images/cfxLocation.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/CreateProject/Images/cfxLocation.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/howto/CreateProject/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/howto/CreateProject/Overview.html",
+          "hash": "nalfo7qP6/CpxVFvBGMsNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/howto/Install/CodeFactoryForVisualStudio.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/howto/Install/CodeFactoryForVisualStudio.html",
+          "hash": "obHgeT458P/8/fW4FHIouQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/howto/Install/CodeFactorySDK.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/howto/Install/CodeFactorySDK.html",
+          "hash": "faEbcXiCOmp5oQsHrqliTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/Install/Images/Activated_License.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/Install/Images/Activated_License.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/Install/Images/Step2_licenseInfo_Screen.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/Install/Images/Step2_licenseInfo_Screen.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/Install/Images/Step3_Activate_License.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/Install/Images/Step3_Activate_License.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "guidance/howto/Install/Images/step1_extensions_menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "guidance/howto/Install/Images/step1_extensions_menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/howto/Overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/howto/Overview.html",
+          "hash": "nShhJWkHNV0rr4NLWkQe9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guidance/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/intro.html",
+          "hash": "8WSmC0OSv++3LMCUeVQfAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "guidance/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "guidance/toc.html",
+          "hash": "HqvsTRLhIbOl8pKxNPcndw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/CodeFactoryLogoLarge.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/CodeFactoryLogoLarge.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "YskjVTNqZ7O6V9NTRe6ynw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "38JaEyJCTJUuJXMHyZcbcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 16,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
